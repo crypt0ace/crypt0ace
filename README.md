@@ -10,5 +10,5 @@
 </p>
 <hr>
 <p align=center>
-<img align=center src="https://scontent.flhe7-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/53206765_2203993952955190_6657751508450279424_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dd9801&efg=eyJpIjoidCJ9&_nc_eui2=AeGwp24wpAx9hVbHINrfE3qWaNWC9gF4q8do1YL2AXirxxMfYRfeznavLWo7VS5unsgeTKIZjjgczvgRsE7L0ZGR&_nc_ohc=wfCfYjd0IZMAX_DIQSe&_nc_ht=scontent.flhe7-1.fna&tp=14&oh=031176fcb8087754eb9b287c780fee35&oe=60CA7736" alt="Hack The Planet" width="200" height="100">
+<img align=center src="/images/hacktheplanet.gif" alt="Hack The Planet" width="200" height="100">
 </p>
