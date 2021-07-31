@@ -2,7 +2,7 @@
 <h4 align=center>An InfoSec Nerd, A CTF Player and A learner</h4>
 
 <h3 align-left>CTFs Profiles:</h3>
-<a href="https://app.hackthebox.eu/profile/483615"><script src="https://www.hackthebox.eu/badge/483615"></script></a> <a href="https://tryhackme.com/p/crypt0ace"> 
+<a href="https://app.hackthebox.eu/profile/483615"><img src="http://www.hackthebox.eu/badge/image/483615" alt="Hack The Box"> <a href="https://tryhackme.com/p/crypt0ace"> 
 
 <h3 align=left>Find me at:</h3>
 <p align=left>
